@@ -1,0 +1,15 @@
+cord-page-presence {
+  border: 1px #ccc solid;
+  border-radius: 12px;
+  padding: 12px;
+  --cord-page-presence-avatar-size: 36px;
+  --cord-avatar-border-radius: 100%;
+}
+
+cord-thread {
+  --cord-thread-send-button-background-color: #ee6611;
+  --cord-thread-send-button-background-color--hover: #ff7722;
+  --cord-thread-send-button-background-color--active: #dd5500;
+  --cord-thread-send-button-background-color--active: #dd5500;
+  --cord-thread-send-button-background-color--disabled: #70665f;
+}
